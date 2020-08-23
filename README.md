@@ -8,4 +8,4 @@ Please feel free to browse my code-related projects. Almost all of my code is op
 - [3D OpenGL/GLFW simulation](https://github.com/Chai112/ESC) as a fun game and good learning experience
 
 Please find my smaller projects here, along with my Google coding competition submissions:\
-https://gist.github.com/Chai112
+https://gist.github.com/Chai112/starred
