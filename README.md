@@ -7,13 +7,11 @@ Please feel free to browse my code-related projects. Almost all of my code is op
 - [Facial identification platform (~60% done)](https://github.com/Chai112/AIFRED) for the blind and mentally disabled
 - [Fullstack website and server code](https://github.com/Chai112/Website) for my family's business
 
-<details>
-  <summary><b>My Smaller Projects</b></summary>
-  - [Simulation of a A320 MCDU Flight Managment System](https://github.com/JonathanOrr/A321Neo-FXPL) for the X-Plane community
-  - [3D OpenGL/GLFW simulation](https://github.com/Chai112/ESC) as a fun game and good learning experience
-  - [Aircraft Simulation Engine](https://github.com/Chai112/ASE) for the X-Plane community, a wrapper of the X-Plane SDK
-  - [3D Cellular automata](https://gist.github.com/Chai112/06480f42c7502c74b52fa76f963269b0) as a cool graphical project, learning Python
-</details>
+### My Smaller Projects
+- [Simulation of a A320 MCDU Flight Managment System](https://github.com/JonathanOrr/A321Neo-FXPL) for the X-Plane community
+- [3D OpenGL/GLFW simulation](https://github.com/Chai112/ESC) as a fun game and good learning experience
+- [Aircraft Simulation Engine](https://github.com/Chai112/ASE) for the X-Plane community, a wrapper of the X-Plane SDK
+- [3D Cellular automata](https://gist.github.com/Chai112/06480f42c7502c74b52fa76f963269b0) as a cool graphical project, learning Python
 
 Please find my smaller projects here, along with my Google coding competition submissions:\
 https://gist.github.com/Chai112/starred
