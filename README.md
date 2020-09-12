@@ -13,7 +13,5 @@ Please feel free to browse my code-related projects. Almost all of my code is op
 - [Aircraft Simulation Engine](https://github.com/Chai112/ASE) for the X-Plane community, a wrapper of the X-Plane SDK
 - [3D Cellular automata](https://gist.github.com/Chai112/06480f42c7502c74b52fa76f963269b0) as a cool graphical project, learning Python
 
-![CA-Amoeba](https://user-images.githubusercontent.com/41228307/90974644-3dcd4680-e557-11ea-8339-c0abd953a42d.gif)
-
 Please find my smaller projects here, along with my Google coding competition submissions:\
 https://gist.github.com/Chai112/starred
