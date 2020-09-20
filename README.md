@@ -7,7 +7,7 @@ Please feel free to browse my code-related projects. Almost all of my code is op
 - [Facial identification platform (~60% done)](https://github.com/Chai112/AIFRED) for the blind and mentally disabled
 - [Fullstack website and server code](https://github.com/Chai112/Website) for my family's business
 
-<details><summary><h3>My Smaller Projects</h3></summary>
+<h3>My Smaller Projects</h3><details><summary>Click to expand</summary>
 <br>
   
 - [Simulation of a A320 MCDU Flight Managment System](https://github.com/JonathanOrr/A321Neo-FXPL) for the X-Plane community
