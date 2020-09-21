@@ -7,7 +7,7 @@ Please feel free to browse my code-related projects. Almost all of my code is op
 - [Facial identification platform (~60% done)](https://github.com/Chai112/AIFRED) for the blind and mentally disabled
 - [Fullstack website and server code](https://github.com/Chai112/Website) for my family's business
 
-<h3>My Smaller Projects</h3><details><summary>Click to expand</summary>
+<h3>My Smaller Projects</h3><details><summary><b>Click to expand</b></summary>
 <br>
   
 - [Simulation of a A320 MCDU Flight Managment System](https://github.com/JonathanOrr/A321Neo-FXPL) - made for X-Plane
@@ -16,7 +16,7 @@ Please feel free to browse my code-related projects. Almost all of my code is op
 - [3D Cellular automata](https://gist.github.com/Chai112/06480f42c7502c74b52fa76f963269b0) - cool graphical project like 3D Conway's Game Of Life
 - [3D ASCII raytracer](https://gist.github.com/Chai112/4c934711b3de8ad8cebe1e377e1eb23d) - perspective writing test which renders a sphere
 - [OOP Scratch extension](https://gist.github.com/Chai112/47e72152c248570bb61da72c093a0234) - a way to introduce OOP for scratch.mit.edu users
-</details>
 
-Please find my smaller projects here, along with my Google coding competition submissions:\
+Please find my other projects here, along with my Google coding competition submissions:\
 https://gist.github.com/Chai112/starred
+</details>
