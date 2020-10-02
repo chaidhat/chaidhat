@@ -16,6 +16,7 @@ Please feel free to browse my code-related projects. Almost all of my code is op
 - [3D Cellular automata](https://gist.github.com/Chai112/06480f42c7502c74b52fa76f963269b0) - cool graphical project like 3D Conway's Game Of Life
 - [3D ASCII raytracer](https://gist.github.com/Chai112/4c934711b3de8ad8cebe1e377e1eb23d) - perspective writing test which renders a sphere
 - [OOP Scratch extension](https://gist.github.com/Chai112/47e72152c248570bb61da72c093a0234) - a way to introduce OOP for scratch.mit.edu users
+- [Simultaneous equation solver](https://gist.github.com/Chai112/0f080e0bb1fefcf73c39ccd7f02bf0fd) - a tool to brute-force multi-solution simultaneous equations
 
 Please find my other projects here, along with my Google coding competition submissions:\
 https://gist.github.com/Chai112/starred
