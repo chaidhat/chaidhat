@@ -3,7 +3,7 @@ Please feel free to browse my code-related projects. Almost all of my code is op
 ### My Larger Projects
 | Project Description | Languages |
 |---|---|
-| [My own programming language and compiler](https://github.com/Chai112/MinC-Compiler) for beginners at coding            | C, **Minimalistic-C** |
+| [My own programming language and compiler](https://github.com/Chai112/MinC-Compiler) for beginners at coding            | C, x86, **Minimalistic-C** |
 | [Application for MOOC/cloud-teaching](https://github.com/Ike-Chai/Laymanns) for local Thai schools and communities      | Dart |
 | [Simulation of a Boeing 777](https://github.com/Chai112/Boeing-777-300ER) for the X-Plane community, supporting the WHO | C, C++, Lua |
 | [Facial identification platform (~60% done)](https://github.com/Chai112/AIFRED) for the blind and mentally disabled     | C++, GLSL |
