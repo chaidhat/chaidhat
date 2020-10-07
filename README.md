@@ -9,7 +9,7 @@ Please feel free to browse my code-related projects. Almost all of my code is op
 | [Facial identification platform (~60% done)](https://github.com/Chai112/AIFRED) for the blind and mentally disabled     | C++, GLSL |
 | [Fullstack website and server code](https://github.com/Chai112/Website) for my fecamily's business                      | HTML, CSS, JS, PHP |
 
-<h3>My Smaller Projects</h3><details><summary><b>Click to expand</b></summary>
+<h3>My Other Projects</h3><details><summary><b>Click to expand</b></summary>
 <br>
   
 | Project Description | Languages |
