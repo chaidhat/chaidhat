@@ -10,8 +10,8 @@ Please feel free to browse my code-related projects. Almost all of my code is op
 | [Fullstack website and server code](https://github.com/Chai112/Website) for my fecamily's business                      | HTML, CSS, JS, PHP |
 
 ### My Other Projects
-<details><summary><b>Click to expand</b></summary>
-<br>
+<!--<details><summary><b>Click to expand</b></summary>
+<br>-->
   
 | Project Description | Languages |
 |---|---|
