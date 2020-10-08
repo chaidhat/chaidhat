@@ -23,6 +23,7 @@ Please feel free to browse my code-related projects. Almost all of my code is op
 | [3D ASCII raytracer](https://gist.github.com/Chai112/4c934711b3de8ad8cebe1e377e1eb23d) - perspective writing test which renders a sphere        | C |
 | [OOP Scratch extension](https://gist.github.com/Chai112/47e72152c248570bb61da72c093a0234) - method to introduce OOP for scratch.mit.edu users   | Javascript |
 | [Simultaneous equation solver](https://gist.github.com/Chai112/0f080e0bb1fefcf73c39ccd7f02bf0fd) - tool to brute-force multi-variable equations | Python |
+| [Self-replicating code as a Quine](https://gist.github.com/Chai112/9920e9ae052593e32dbb38ccd5367333) and [genetic virus](https://gist.github.com/Chai112/6d5ae1bfbc343130a0ee3d87f53d205c) | C |
 
 Please find my other projects here, along with my Google coding competition submissions:\
 https://gist.github.com/Chai112/starred
