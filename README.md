@@ -25,7 +25,7 @@ Please feel free to browse my code-related projects. Almost all of my code is op
 | [OOP Scratch extension](https://gist.github.com/Chai112/47e72152c248570bb61da72c093a0234) - method to introduce OOP for scratch.mit.edu users   | Javascript | [MIT](https://choosealicense.com/licenses/mit) |
 | [Simultaneous equation solver](https://gist.github.com/Chai112/0f080e0bb1fefcf73c39ccd7f02bf0fd) - tool to brute-force multi-variable equations | Python | [MIT](https://choosealicense.com/licenses/mit) |
 | [Self-replicating code as a Quine](https://gist.github.com/Chai112/9920e9ae052593e32dbb38ccd5367333) and self-recompiling [genetic virus](https://gist.github.com/Chai112/6d5ae1bfbc343130a0ee3d87f53d205c) | C | [MIT](https://choosealicense.com/licenses/mit) |
-| [Contribution to a simulation of a A318](https://github.com/x-bureau/Airbus-A318) - an 46-person international group project | Lua | [CC NC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/) |
+| [Contribution to a simulation of a A318](https://github.com/x-bureau/Airbus-A318) - an 46-person international group project | Lua | [CC](https://creativecommons.org/licenses/by-nc-sa/3.0/) |
 
 Please find my other projects here, along with my Google coding competition submissions:\
 https://gist.github.com/Chai112/starred
