@@ -1,5 +1,5 @@
 # Hey, I'm Chaidhat Chaimongkol
-Please feel free to browse my code-related projects. Almost all of my code is open-sourced and copy**left**, licensed under GPL 3.0 or MIT.
+Please feel free to browse my code-related projects. Almost all of my code is open-sourced and copy**left**, licensed under [GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/) or [MIT](https://choosealicense.com/licenses/mit).
 ### My Larger Projects
 | Project Description | Languages |
 |---|---|
