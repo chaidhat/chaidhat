@@ -18,7 +18,7 @@ Please feel free to browse my code-related projects. Almost all of my code is op
 | [Arduino robotics ](https://github.com/Chai112/Robotics) - 3D operation logic with robotics team                                                | Python, C++ | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | [Simulation of a A320 MCDU Flight Managment System](https://github.com/JonathanOrr/A321Neo-FXPL) - made for X-Plane                             | Lua | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
 | [Webcam Spyware Demonstration]() - shows how easy it is to create a virus                                                                       | C, C++ | closed |
-| [3D Cellular automata](https://github.com/Chai112/Cellular-Automata) - cool graphical project like 3D Conway's Game Of Life                     | Python, C | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) 
+| [3D Cellular automata](https://github.com/Chai112/Cellular-Automata) - cool graphical project like 3D Conway's Game Of Life                     | Python, C | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) | 
 | [3D OpenGL/GLFW simulation](https://github.com/Chai112/ESC) - my first experiment with OpenGL and C++                                           | C++, GLSL | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | [Aircraft Simulation Engine](https://github.com/Chai112/ASE) - wrapper of the X-Plane SDK with advanced OOP C++                                 | C++ | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | Game - 2D game in Unity with a group of friends                                                                                                 | C# | closed |
