@@ -1,5 +1,5 @@
 # Hey, I'm Chaidhat 👋
-I am a Thai student committed to making a difference and enjoy coding, classical music and impressionist art. Almost all of my code is open-sourced and copy**left (Ɔ)**, licensed under [GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/) or [MIT](https://choosealicense.com/licenses/mit) for other people to learn from my work or improve on it.
+I am a trilingual Thai student committed to making a difference and enjoy coding, classical music and impressionist art. Almost all of my code is open-sourced and copy**left (Ɔ)**, licensed under [GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/) or [MIT](https://choosealicense.com/licenses/mit) for other people to learn from my work or improve on it.
 ### My Larger Projects
 | Project Description | Languages | License |
 |---|---|---|
