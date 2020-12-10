@@ -6,7 +6,7 @@ I am a trilingual Thai student committed to making a difference and enjoy coding
 | 📜 [My own programming language and compiler](https://github.com/Chai112/MinC-Compiler) for beginners at coding            | C, x86, **Minimalistic-C** | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 📱 [Application for MOOC/cloud-teaching](https://github.com/Ike-Chai/Laymanns) for local Thai schools and communities      | Dart                       | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
 | ✈ [Simulation of a Boeing 777](https://github.com/Chai112/Boeing-777-300ER) for the X-Plane community, supporting the WHO | C, C++, Lua                | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
-| ☁ [Fullstack website and server code](https://github.com/Chai112/Website) for my fecamily's business                      | HTML, CSS, JS, PHP         | (C) |
+| ☁ [Fullstack website and server code](https://github.com/Chai112/Website) for my family's business                      | HTML, CSS, JS, PHP         | (C) |
 | 😀 [Facial identification platform (~60% done)](https://github.com/Chai112/AIFRED) for the blind and mentally disabled     | C++, GLSL                  | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 
 ### My Other Projects
