@@ -28,7 +28,6 @@ I am a trilingual Thai student committed to making a difference and enjoy coding
 | 👨‍👨‍👦‍👦 [Contributions to an A318 simulation](https://github.com/x-bureau/Airbus-A318) - 46-person international project | Lua | (Ɔ) [CC](https://creativecommons.org/licenses/by-nc-sa/3.0/) |
 | 🧮 [Simultaneous equation solver](https://gist.github.com/Chai112/0f080e0bb1fefcf73c39ccd7f02bf0fd) - tool to brute-force multi-variable equations | Python | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 🦠 [Self-replicating code as a Quine](https://gist.github.com/Chai112/9920e9ae052593e32dbb38ccd5367333) and self-recompiling [genetic virus](https://gist.github.com/Chai112/6d5ae1bfbc343130a0ee3d87f53d205c) | C | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
-| 💧 [Matlab Thermodynamic Calculator](https://gist.github.com/Chai112/20f901573737051f832c73d95ac5bdef) - tool to calculate humidity ratio in air | Matlab | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 
 
 Please find my other projects here, along with my Google coding competition submissions:\
