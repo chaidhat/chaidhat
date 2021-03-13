@@ -1,4 +1,4 @@
-# Hey, I'm Chaidhat <div border-top = 50px><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/waving-hand_1f44b.png" width="40" height="40"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-thailand_1f1f9-1f1ed.png" width="40" height="40"></div>
+# Hey, I'm Chaidhat <div border-top = 5px><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/waving-hand_1f44b.png" width="40" height="40"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-thailand_1f1f9-1f1ed.png" width="40" height="40"></div>
 
 I am a trilingual Thai student committed to making a difference and enjoy coding, classical music and impressionist art. Almost all of my code is open-sourced and copy**left (Ɔ)**, licensed under [GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/) or [MIT](https://choosealicense.com/licenses/mit) for other people to learn from my work or improve on it.
 ### My Larger Projects
