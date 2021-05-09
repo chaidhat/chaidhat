@@ -1,12 +1,12 @@
 # Hey, I'm Chaidhat <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/waving-hand_1f44b.png" width="40" height="40"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-thailand_1f1f9-1f1ed.png" width="40" height="40">
 
 I am a trilingual Thai student committed to making a difference and enjoys coding, classical/impressionist music and graphic design. Almost all of my code is open-sourced and copy**left (Ɔ)**, licensed under [GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/) or [MIT](https://choosealicense.com/licenses/mit) for other people to learn from my work or improve on it.
-### My Larger Projects
+### My Most Impactful Projects
 | Project Description | Languages | License |
 |---|---|---|
 | ❤ [Safety Checklist App](https://schecklist.diw.go.th) to save the lives of factory workers throughout Thailand<br>contracted by the [Thailand Department of Industrial Works (DIW)](https://www.diw.go.th) | Dart, NodeJS, SQL | contract |
 | 📜 [My own programming language and compiler](https://github.com/Chai112/MinC-Compiler) for beginners at coding            | C, x86, **Minimalistic-C** | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
-| ✈ [Simulation of a Boeing 777](https://github.com/Chai112/Boeing-777-300ER) for the X-Plane community, supporting the WHO | C, C++, Lua                | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
+| ✈ [Simulation of a Boeing 777](https://github.com/Chai112/Boeing-777-300ER) for the X-Plane community, supporting the [WHO](https://www.who.int/) | C, C++, Lua                | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
 | ☁ [Fullstack website and server code](https://github.com/Chai112/Website) for my family's business                      | HTML, CSS, JS, PHP         | contract |
 | 😀 [Facial identification platform (~60% done)](https://github.com/Chai112/AIFRED) for the blind and mentally disabled     | C++, GLSL                  | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 
