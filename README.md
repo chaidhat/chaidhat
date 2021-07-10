@@ -4,7 +4,7 @@ I am a trilingual Thai student committed to making a difference and enjoys codin
 ### My Most Impactful Projects
 | Project Description | Languages | License |
 |---|---|---|
-| ⛑ [Safety Checklist App](http://schecklist.diw.go.th) to save the lives of factory workers throughout Thailand<br>contracted by the [Thailand Department of Industrial Works (DIW)](https://www.diw.go.th) | Dart, NodeJS, SQL | contract |
+| 🦺 [Safety Checklist App](http://schecklist.diw.go.th) to save the lives of factory workers throughout Thailand<br>contracted by the [Thailand Department of Industrial Works (DIW)](https://www.diw.go.th) | Dart, NodeJS, SQL | contract |
 | 📚 [My own programming language and compiler](https://github.com/Chai112/MinC-Compiler) for beginners at coding            | C, x86, **Minimalistic-C** | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | ✈ [Simulation of a Boeing 777](https://github.com/Chai112/Boeing-777-300ER) for the X-Plane community, supporting the [WHO](https://www.who.int/) | C, C++, Lua                | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
 | ☁ [Fullstack website and server code](https://github.com/Chai112/Website) for my family's business                      | HTML, CSS, JS, PHP         | contract |
