@@ -34,3 +34,5 @@ I am a trilingual Thai student committed to making a difference and enjoys codin
 Please find my other projects here, along with my Google coding competition submissions:\
 https://gist.github.com/Chai112/starred
 </details>
+
+<a href="https://info.flagcounter.com/yKwp"><img src="https://s11.flagcounter.com/count2/yKwp/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
