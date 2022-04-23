@@ -16,6 +16,7 @@ I am a trilingual Thai student committed to making a difference and enjoys codin
   
 | Project Description | Languages | License |
 |---|---|---|
+| 🌊 [Wave Interference Simulation](https://chai112.github.io/Chai112/slits-experiment/) - online single/double/etc slit experiment simulator | JavaScript | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 🤖 [Arduino robotics ](https://github.com/Chai112/Robotics) - 3D operation logic with robotics team                                                | Python, C++ | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 🧭 [Simulation of a A320 Flight Managment System](https://github.com/JonathanOrr/A321Neo-FXPL) - for an international team project                 | Lua | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
 | ♟ [Deep learning chess engine](https://github.com/chai112/shallow-crimson-chess-engine) - AI/ML Chess Engine for me to practice AI & OOP | C++ | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
