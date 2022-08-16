@@ -4,7 +4,7 @@ I am a trilingual Thai student committed to making a difference and enjoys codin
 # My Work
 | Project | Description | Languages | License |
 |---|---|---|---|
-| [Scholarity](https://scholarity.io) | Online video course/MOOC builder for educators and businesses. Designed to be easy-to-use, powerful and cheap. | Dart, NodeJS, SQL | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
+| [Scholarity](https://scholarity.io) | Online video course/MOOC builder for educators and businesses. Designed to be easy-to-use, powerful and cheap. | Dart, NodeJS, SQL | wip |
 | [Safety&#160;Checklist&#160;App](http://schecklist.diw.go.th) | App to improve Occupational Health & Safety and perform data analysis. Contracted by [Thailand's Department of Industrial Works (DIW)](https://www.diw.go.th).| Dart, NodeJS, SQL | contract |
 | [Deep&#160;Crimson&#160;Chess](https://github.com/chai112/deep-crimson-chess) | Training Convolutional Neural Networks to analyze chess positions and determine the next best move. | C++, Python Tensorflow | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
 | [Minimalistic-C](https://github.com/Chai112/MinC-Compiler) | Programming language and x86 compiler, inspired by C. Made to introduce beginners to low level coding by using a minimalistic featureset.            | C, x86, **Minimalistic&#160;C** | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
