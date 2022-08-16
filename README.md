@@ -1,6 +1,7 @@
-# Hey, I'm Chaidhat <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/waving-hand_1f44b.png" width="40" height="40"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-thailand_1f1f9-1f1ed.png" width="40" height="40">
+# Hi, I'm Chaidhat! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/waving-hand_1f44b.png" width="40" height="40"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-thailand_1f1f9-1f1ed.png" width="40" height="40">
 
-I am a trilingual Thai student committed to making a difference and enjoys coding, classical/impressionist music and graphic design. Almost all of my code is open-sourced and copy**left (Ɔ)**, licensed under [GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/) or [MIT](https://choosealicense.com/licenses/mit) for other people to learn from my work or improve on it.
+I'm a Thai student studying Computer Engineering at the University of California, Los Angeles (class of '26). If I'm not coding, I'm usually watching Youtube, playing classical music or doing 3D art. Thanks for visiting my page, please feel free to check out my work below!
+
 # My Work
 | Project | Description | Languages | License |
 |---|---|---|---|
