@@ -5,11 +5,11 @@ I'm a Thai undergraduate student studying Computer Engineering at the University
 # My Work
 | Project | Description | Languages | License |
 |---|---|---|---|
-| [Scholarity](https://scholarity.io) | Online video course/MOOC builder for educators and businesses. Designed to be easy-to-use, powerful and affordable. [Currently beta testing!](https://scholarity.io) | Dart, NodeJS, SQL | - |
-| [Safety&#160;Checklist&#160;App](http://schecklist.diw.go.th) | Improving and analyzing data in Occupational Health & Safety for factories nationwide. Contracted by the [Thailand Ministry of Industry (DIW)](https://www.diw.go.th).| Dart, NodeJS, SQL | - |
+| [Scholarity](http://scholarity.io) | Online video course/MOOC builder for educators and businesses. Designed to be easy-to-use, powerful and affordable. [Try it out!](http://scholarity.io) | Dart, NodeJS, SQL | - |
+| [Safety&#160;Checklist&#160;App](http://schecklist.diw.go.th) | Improving and analyzing data in Occupational Health & Safety for factories nationwide. Contracted by [Thailand's Ministry of Industry](https://www.diw.go.th).| Dart, NodeJS, SQL | - |
 | [Deep&#160;Crimson&#160;Chess](https://github.com/chai112/deep-crimson-chess) | Training Convolutional Neural Networks to analyze chess positions and compute the best move to make. | C++, Python Tensorflow | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
 | [Minimalistic-C](https://github.com/Chai112/MinC-Compiler) | My programming language and x86 compiler, inspired by C. Made to introduce beginners to low level coding by using a minimalistic featureset.            | C, x86, **Minimalistic&#160;C** | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
-| [Boeing&#160;777&#160;Simulation](https://github.com/Chai112/Boeing-777-300ER) | 3D model of an Boeing 777-300ER aircraft and simulation of its avionics.<br>Seen by over 37,000 people. | C, C++, Lua                | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
+| [Boeing&#160;777&#160;Simulation](https://github.com/Chai112/Boeing-777-300ER) | 3D model of an Boeing 777-300ER aircraft and simulation of its avionics. Seen by over 37,000 people. | C, C++, Lua                | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
 
 
 
