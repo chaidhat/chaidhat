@@ -1,6 +1,12 @@
-# Hi, I'm Chaidhat! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/waving-hand_1f44b.png" width="40" height="40"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-thailand_1f1f9-1f1ed.png" width="40" height="40">
+# Hi, I'm Chai! <img src="https://em-content.zobj.net/thumbs/120/apple/325/waving-hand_1f44b.png" width="40" height="40"> <img src="https://em-content.zobj.net/thumbs/120/apple/325/flag-thailand_1f1f9-1f1ed.png" width="40" height="40">
 
-I'm a Thai undergraduate student studying Computer Engineering at the University of California, Los Angeles (UCLA '26).<br><br>When I'm not coding, I'm usually watching Youtube, practicing classical music or doing 3D digital art. Thanks for visiting my page: please feel free to check out my coding work below!
+I'm a Thai undergraduate student studying Computer Engineering at UCLA.
+<br><br>
+With over ten years of experience in programming, I have developed my own x86 compiler, convolutional neural network chess engine, online educational video platform and more. I strive to make a positive difference in the world and empower others to do the same. You can find my work as well as some of their open-sourced code repositories below.<br>
+<br>
+**Chaidhat Chaimongkol**<br>
+chaimongkol@ucla.edu
+<br>[Go to my LinkedIn](https://www.linkedin.com/in/chaidhat/)
 
 # My Work
 | Project | Description | Languages | License |
@@ -13,7 +19,7 @@ I'm a Thai undergraduate student studying Computer Engineering at the University
 
 
 
-## My more chill work
+## My smaller projects
 <!--<details><summary><b>Click to expand</b></summary>
 <br>-->
   
@@ -23,12 +29,12 @@ I'm a Thai undergraduate student studying Computer Engineering at the University
 | 🤖 [Arduino robotics ](https://github.com/Chai112/Robotics) - 3D operation logic with robotics team                                                | Python, C++ | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 🧭 [Simulation of a A320 Flight Managment System](https://github.com/JonathanOrr/A321Neo-FXPL) - for an international team project                 | Lua | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
 | 😀 [Facial identification platform (~60% done)](https://github.com/Chai112/AIFRED) for the blind and mentally disabled     | C++, GLSL                  | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
-| 👁 [Webcam Spyware Demonstration](https://www.cyphermagazine.com/post/coding-a-webcam-spyware-virus-in-less-than-a-day) - shows how easy it is to create a virus                                                                        | C, C++ | closed |
+| 👁 [Webcam Spyware Demonstration](https://www.cyphermagazine.com/post/coding-a-webcam-spyware-virus-in-less-than-a-day) - shows how easy it is to create a virus                                                                        | C, C++ | - |
 | 🔬 [3D Cellular automata](https://github.com/Chai112/Cellular-Automata) - cool graphical project like 3D Conway's Game Of Life                     | Python, C | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) | 
 | 💻 [3D OpenGL/GLFW simulation](https://github.com/Chai112/ESC) - my first experiment with OpenGL and C++                                           | C++, GLSL | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 🛫 [Aircraft Simulation Engine](https://github.com/Chai112/ASE) - wrapper of the X-Plane SDK with advanced OOP C++                                 | C++ | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
-| ☁ [Fullstack website and server code](https://github.com/Chai112/Website) for my family's business                      | HTML, CSS, JS, PHP         | contract |
-| 🎮 Game - 2D game in Unity with a group of friends                                                                                                 | C# | closed |
+| ☁ [Fullstack website and server code](https://github.com/Chai112/Website) for my family's business                      | HTML, CSS, JS, PHP         | - |
+| 🎮 Game - 2D game in Unity with a group of friends                                                                                                 | C# | - |
 | ☀ [3D ASCII raytracer](https://gist.github.com/Chai112/4c934711b3de8ad8cebe1e377e1eb23d) - perspective writing test which renders a sphere        | C | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 🐱 [OOP Scratch extension](https://gist.github.com/Chai112/47e72152c248570bb61da72c093a0234) - method to introduce OOP for [scratch.mit.edu](https://scratch.mit.edu) users   | JavaScript | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 👨‍👨‍👦‍👦 [Contributions to an A318 simulation](https://github.com/x-bureau/Airbus-A318) - 46-person international project | Lua | (Ɔ) [CC](https://creativecommons.org/licenses/by-nc-sa/3.0/) |
