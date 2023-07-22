@@ -26,7 +26,7 @@ chaimongkol@ucla.edu
   
 | Project Description | Languages | License |
 |---|---|---|
-| 🌊 [Wave Interference Simulation](https://chai112.github.io/Chai112/slits-experiment/) - online single/double/etc slit experiment simulator | JavaScript | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
+| 🌊 [Wave Interference Simulation](https://chaidhat.github.io/Chaidhat/slits-experiment/) - online single/double/etc slit experiment simulator | JavaScript | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 🤖 [Arduino robotics ](https://github.com/Chai112/Robotics) - 3D operation logic with robotics team                                                | Python, C++ | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 🧭 [Simulation of a A320 Flight Managment System](https://github.com/JonathanOrr/A321Neo-FXPL) - for an international team project                 | Lua | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
 | 😀 [Facial identification platform (~60% done)](https://github.com/Chai112/AIFRED) for the blind and mentally disabled     | C++, GLSL                  | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
@@ -36,11 +36,11 @@ chaimongkol@ucla.edu
 | 🛫 [Aircraft Simulation Engine](https://github.com/Chai112/ASE) - wrapper of the X-Plane SDK with advanced OOP C++                                 | C++ | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | ☁ [Fullstack website and server code](https://github.com/Chai112/Website) for my family's business                      | HTML, CSS, JS, PHP         | - |
 | 🎮 Game - 2D game in Unity with a group of friends                                                                                                 | C# | - |
-| ☀ [3D ASCII raytracer](https://gist.github.com/Chai112/4c934711b3de8ad8cebe1e377e1eb23d) - perspective writing test which renders a sphere        | C | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
-| 🐱 [OOP Scratch extension](https://gist.github.com/Chai112/47e72152c248570bb61da72c093a0234) - method to introduce OOP for [scratch.mit.edu](https://scratch.mit.edu) users   | JavaScript | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
+| ☀ [3D ASCII raytracer](https://gist.github.com/Chaidhat/4c934711b3de8ad8cebe1e377e1eb23d) - perspective writing test which renders a sphere        | C | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
+| 🐱 [OOP Scratch extension](https://gist.github.com/Chaidhat/47e72152c248570bb61da72c093a0234) - method to introduce OOP for [scratch.mit.edu](https://scratch.mit.edu) users   | JavaScript | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 👨‍👨‍👦‍👦 [Contributions to an A318 simulation](https://github.com/x-bureau/Airbus-A318) - 46-person international project | Lua | (Ɔ) [CC](https://creativecommons.org/licenses/by-nc-sa/3.0/) |
-| 🧮 [Simultaneous equation solver](https://gist.github.com/Chai112/0f080e0bb1fefcf73c39ccd7f02bf0fd) - tool to brute-force multi-variable equations | Python | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
-| 🦠 [Self-replicating code as a Quine](https://gist.github.com/Chai112/9920e9ae052593e32dbb38ccd5367333) and self-recompiling [genetic virus](https://gist.github.com/Chai112/6d5ae1bfbc343130a0ee3d87f53d205c) | C | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
+| 🧮 [Simultaneous equation solver](https://gist.github.com/Chaidhat/0f080e0bb1fefcf73c39ccd7f02bf0fd) - tool to brute-force multi-variable equations | Python | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
+| 🦠 [Self-replicating code as a Quine](https://gist.github.com/Chaidhat/9920e9ae052593e32dbb38ccd5367333) and self-recompiling [genetic virus](https://gist.github.com/Chaidhat/6d5ae1bfbc343130a0ee3d87f53d205c) | C | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 
 
 Please find my other projects here, along with my Google coding competition submissions:\
