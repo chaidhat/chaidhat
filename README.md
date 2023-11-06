@@ -1,4 +1,5 @@
-# Hi, I'm Chai! <img src="https://em-content.zobj.net/thumbs/120/apple/325/waving-hand_1f44b.png" width="40" height="40"> <img src="https://em-content.zobj.net/thumbs/120/apple/325/flag-thailand_1f1f9-1f1ed.png" width="40" height="40">
+<img src="https://em-content.zobj.net/thumbs/120/apple/325/waving-hand_1f44b.png" width="50" height="50"><br>
+# Hi, I'm Chai! 
 
 I'm a Thai undergraduate student studying Computer Engineering at UCLA.
 <br><br>
@@ -6,26 +7,26 @@ With over ten years of experience in programming, I have developed my own x86 co
 <br>
 **Chaidhat Chaimongkol**<br>
 chaimongkol@ucla.edu
-<br>[Go to my LinkedIn](https://www.linkedin.com/in/chaidhat/)
+<br>[LinkedIn](https://www.linkedin.com/in/chaidhat/)
 
-# My Work
+# Notable Projects
 | Project | Description | Languages | License |
 |---|---|---|---|
-| [Safety&#160;Checklist&#160;App](http://schecklist-n.diw.go.th) | Occupational Health & Safety app used by over 440 factories in Thailand. Written by me working for [Thailand's Ministry of Industry](https://www.diw.go.th).| Dart, NodeJS, SQL | - |
-| [Cube Satellite](https://github.com/Bruin-Spacecraft-Group/Rapid-CDH) | Flight code written when I was team lead for Rapid CDH -- a team of UCLA's Cube Satellite programme. We plan to test a xenon-ion thruster in space. | C | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
-| [Deep&#160;Crimson&#160;Chess](https://github.com/chai112/deep-crimson-chess) | Training Convolutional Neural Networks to analyze chess positions and compute the best move to make. | C++, Python Tensorflow | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
-| [Minimalistic-C](https://github.com/Chai112/MinC-Compiler) | My programming language and x86 compiler, inspired by C. Made to introduce beginners to low level coding by using a minimalistic featureset.            | C, x86, **Minimalistic&#160;C** | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
-| [Boeing&#160;777&#160;Simulation](https://github.com/Chai112/Boeing-777-300ER) | 3D model of an Boeing 777-300ER aircraft and simulation of its avionics. Used by over 37,000 people. | C, C++, Lua                | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
-| [Scholarity](http://scholarity.io) | Online course/MOOC creator for educators and businesses. Designed to be easy-to-use, powerful and affordable. [Try it out!](http://scholarity.io) | Dart, NodeJS, SQL | - |
+| [Safety&#160;Checklist&#160;App](http://schecklist-n.diw.go.th) |  Worked with [Thailand's Ministry of Industry](https://www.diw.go.th) to produce an Occupational Health & Safety app used by over 440 factories in Thailand.| Flutter, NodeJS, SQL | - |
+| [Cube Satellite](https://github.com/Bruin-Spacecraft-Group/Rapid-CDH) | Flight code for UCLA's Cube Satellite programme. Working with UCLA's Plasm Space Propulsion Laboratory (PSPL) to run a xenon-ion thruster in space. | C, Python | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
+| [Boeing&#160;777&#160;Simulation](https://github.com/Chai112/Boeing-777-300ER) | 3D model of an Boeing 777-300ER aircraft and simulation of its avionics. Used by +50,000 people. | C, C++, Lua                | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
+| [Scholarity](http://scholarity.io) | Online course/MOOC creator for educators and businesses. Used by +1,000 users and trusted by Burpha University, PCG and Sicher. | Dart, JS, SQL | - |
 
 
 
-## My smaller projects
+## Other Fun Projects
 <!--<details><summary><b>Click to expand</b></summary>
 <br>-->
   
 | Project Description | Languages | License |
 |---|---|---|
+| ♟️ [Deep&#160;Crimson&#160;Chess](https://github.com/chai112/deep-crimson-chess) - training Convolutional Neural Networks to analyze chess positions and compute the best move to make. | C++, Python Tensorflow | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
+| 👾 [Minimalistic-C](https://github.com/Chai112/MinC-Compiler) - my programming language and x86 compiler, inspired by C. Made to introduce beginners to low level coding by using a minimalistic featureset.            | C, x86, **Minimalistic&#160;C** | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 🌊 [Wave Interference Simulation](https://chaidhat.github.io/Chaidhat/slits-experiment/) - online single/double/etc slit experiment simulator | JavaScript | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 🤖 [Arduino robotics ](https://github.com/Chai112/Robotics) - 3D operation logic with robotics team                                                | Python, C++ | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 🧭 [Simulation of a A320 Flight Managment System](https://github.com/JonathanOrr/A321Neo-FXPL) - for an international team project                 | Lua | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
@@ -34,7 +35,7 @@ chaimongkol@ucla.edu
 | 🔬 [3D Cellular automata](https://github.com/Chai112/Cellular-Automata) - cool graphical project like 3D Conway's Game Of Life                     | Python, C | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) | 
 | 💻 [3D OpenGL/GLFW simulation](https://github.com/Chai112/ESC) - my first experiment with OpenGL and C++                                           | C++, GLSL | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 🛫 [Aircraft Simulation Engine](https://github.com/Chai112/ASE) - wrapper of the X-Plane SDK with advanced OOP C++                                 | C++ | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
-| ☁ [Fullstack website and server code](https://github.com/Chai112/Website) for my family's business                      | HTML, CSS, JS, PHP         | - |
+| ☁ [Fullstack website and server code](https://github.com/Chai112/Website) for my family's business                      | HTML, PHP         | - |
 | 🎮 Game - 2D game in Unity with a group of friends                                                                                                 | C# | - |
 | ☀ [3D ASCII raytracer](https://gist.github.com/Chaidhat/4c934711b3de8ad8cebe1e377e1eb23d) - perspective writing test which renders a sphere        | C | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | 🐱 [OOP Scratch extension](https://gist.github.com/Chaidhat/47e72152c248570bb61da72c093a0234) - method to introduce OOP for [scratch.mit.edu](https://scratch.mit.edu) users   | JavaScript | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
