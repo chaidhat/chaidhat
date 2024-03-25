@@ -16,6 +16,7 @@ chaimongkol@ucla.edu
 | [Safety&#160;Checklist&#160;App](http://schecklist-n.diw.go.th) |  Worked with [Thailand's Ministry of Industry](https://www.diw.go.th) to produce an Occupational Health & Safety app used by over 440 factories in Thailand.| Flutter, NodeJS, SQL | - |
 | [Cube Satellite](https://github.com/Bruin-Spacecraft-Group/Rapid-CDH) | Flight code for UCLA's Cube Satellite programme. Working with UCLA's Plasm Space Propulsion Laboratory (PSPL) to run a xenon-ion thruster in space. | C, Python | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | [Boeing&#160;777&#160;Simulation](https://github.com/chaidhat/Boeing-777-300ER) | 3D model of an Boeing 777-300ER aircraft and simulation of its avionics. Used by +50,000 people. | C, C++, Lua                | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
+| [Blur AI](https://github.com/chaidhat/blur-ai) | Implementing Pix2Pix to perform monocular depth estimation | Tensorflow | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
 
 
 
@@ -26,7 +27,6 @@ chaimongkol@ucla.edu
 | Project Description | Languages | License |
 |---|---|---|
 | [Minimalistic-C](https://github.com/Chai112/MinC-Compiler) - my programming language and x86 compiler, inspired by C. Made to introduce beginners to low level coding by using a minimalistic featureset.            | C, x86, **Minimalistic&#160;C** | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
-| [Blur AI](https://github.com/chaidhat/blur-ai) - monocular depth estimation using Pix2Pix | Tensorflow | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
 | [Chess AI](https://github.com/chaidhat/chess-ai) - training convolutional neural networks to play chess | Tensorflow | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
 | [Wave Interference Simulation](https://chaidhat.github.io/Chaidhat/slits-experiment/) - online single/double/etc slit experiment simulator | JavaScript | (Ɔ) [MIT](https://choosealicense.com/licenses/mit) |
 | [Simulation of a A320 Flight Managment System](https://github.com/JonathanOrr/A321Neo-FXPL) - for an international team project                 | Lua | (Ɔ) [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
