@@ -12,7 +12,7 @@ chaimongkol@ucla.edu
 # Noteable Projects
 | Project | Description | Languages | License |
 |---|---|---|---|
-| [Schols](http://scholarity.io) | Online course/MOOC creator for educators and businesses. Used by +1,000 users including PepsiCo, Burpha University and more. | Dart, JS, SQL | - |
+| [Schols](http://scholarity.io) | EHS Platform for E-Learning, Inspection & Auditing. Used by Fortune 500 company and many others; generated $20,000 in profit. | Dart,React, TypeScript, SQL | - |
 | [Safety&#160;Checklist&#160;App](http://schecklist-n.diw.go.th) |  Worked with [Thailand's Ministry of Industry](https://www.diw.go.th) to produce an Occupational Health & Safety app used by over 440 factories in Thailand.| Flutter, NodeJS, SQL | - |
 | [Cube Satellite](https://github.com/Bruin-Spacecraft-Group/Rapid-CDH) | Flight code for UCLA's Cube Satellite programme. Working with UCLA's Plasm Space Propulsion Laboratory (PSPL) to run a xenon-ion thruster in space. | C, Python | [MIT](https://choosealicense.com/licenses/mit) |
 | [Boeing&#160;777&#160;Simulation](https://github.com/chaidhat/Boeing-777-300ER) | 3D model of an Boeing 777-300ER aircraft and simulation of its avionics. Used by +50,000 people. | C, C++, Lua                | [GPL](https://choosealicense.com/licenses/gpl-3.0/) |
