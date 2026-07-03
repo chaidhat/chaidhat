@@ -1,7 +1,7 @@
 <img src="https://em-content.zobj.net/thumbs/120/apple/325/waving-hand_1f44b.png" width="50" height="50"><br>
 # Hi, I'm Chai! 
 
-I'm a Thai undergraduate student studying Computer Engineering at UCLA.
+I'm a Thai Software Engineer and UCLA alumni ('26) working in California. I've specialize in startups having worked in two YC-backed seed-stage companies.
 <br><br>
 With over ten years of experience in programming, I have developed my own x86 compiler, convolutional neural network chess engine, online educational video platform and more. I strive to make a positive difference in the world and empower others to do the same. You can find my work as well as some of their open-sourced code repositories below.<br>
 <br>
